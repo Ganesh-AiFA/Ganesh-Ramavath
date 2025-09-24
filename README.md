@@ -38,8 +38,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,mongodb,git,github,linux,vscode" />
-    
-y" />
+
 </div>
 
 <br/>
