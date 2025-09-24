@@ -13,13 +13,13 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **AI-driven Applications, RAG Pipelines, and FastAPI services**<br>
+ 🔭 I’m currently working on **Low-Code No-Code Workflow Automation Platform,AI-driven Applications, RAG Pipelines, and FastAPI services**<br>
 
- 🌱 I’m currently exploring advanced **LLMs, NLP workflows, and CV integration**<br>
+ 🌱 I’m currently exploring advanced **LLMs, NLP, workflows, and CV integration**<br>
 
  💬 Ask me about **AI, ML, LLMs, Python, FastAPI, SQLAlchemy, NLP, and API development**<br>
 
- 📫 Reach me at: **Swamiramavathganesh@gmail.com**
+ 📫 Reach me at: **mrganeshramavath@gmail.com**
 
 </div>
 
@@ -27,7 +27,7 @@
   <a href="mailto:mrganeshramavath@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ganeshramavath123/" target="_blank">
+  <a href="https://www.linkedin.com/in/mrganeshramavath/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -38,14 +38,8 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,mongodb,git,github,linux,vscode" />
-    <img src="https://skillicons.dev/icons?i=docker,cpp,c,java,javascript,html,css,react,nodejs" /><br><br>
     
-    <img src="https://img.shields.io/badge/Frameworks-FastAPI%20|%20Flask%20|%20Django-informational?style=flat&logo=python&logoColor=white&color=blue" />
-    <img src="https://img.shields.io/badge/AI/ML-LLM%20|%20RAG%20|%20NLP%20|%20CV%20|%20scikit--learn%20|%20Pandas%20|%20NumPy-informational?style=flat&logo=numpy&logoColor=white&color=orange" />
-    <img src="https://img.shields.io/badge/Databases-MySQL%20|%20MongoDB-informational?style=flat&logo=mysql&logoColor=white&color=green" />
-    <img src="https://img.shields.io/badge/API%20Design-RESTful%20APIs-informational?style=flat&logo=fastapi&logoColor=white&color=blueviolet" />
-    <img src="https://img.shields.io/badge/Modeling-Pydantic%20Models%20|%20SQLAlchemy-informational?style=flat&logo=pydantic&logoColor=white&color=darkgreen" />
-    <img src="https://img.shields.io/badge/Platforms-MCP%20Servers%20|%20Workflow%20Automation-informational?style=flat&logo=linux&logoColor=white&color=gray" />
+y" />
 </div>
 
 <br/>
