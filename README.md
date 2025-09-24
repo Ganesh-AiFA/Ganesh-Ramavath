@@ -1,5 +1,5 @@
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=arshaganesh&label=Profile%20views&color=0e75b6&style=flat" alt="arshaganesh" /> 
+  <img src="https://komarev.com/ghpvc/?username=Ganesh-AiFA&label=Profile%20views&color=0e75b6&style=flat" alt="Ganesh-AiFA" /> 
 </p>
 
 <h1 align="center">
@@ -42,14 +42,6 @@
 </div>
 
 <br/>
-<hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ganesh-AiFA&show_icons=true&locale=en&layout=compact" alt="Ganesh-AiFA" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ganesh-AiFA&show_icons=true&locale=en" alt="Ganesh-AiFA" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh-AiFA&" alt="Ganesh-AiFA" /></p>
-
-<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+build+the+future+with+AI!">
 </h3>
